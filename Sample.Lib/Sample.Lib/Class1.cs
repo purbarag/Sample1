@@ -9,5 +9,6 @@ namespace Sample.Lib
     public class Class1
     {
         public string test;
+        public string test2;
     }
 }
